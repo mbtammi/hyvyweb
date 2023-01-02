@@ -1,0 +1,20 @@
+//TODO: pitää tehdä myöhemmin....
+POST http://localhost:3001/api/users
+Content-Type: application/json
+//Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1sdXVra2FpIiwiaWQiOiI2MzliMWFkNmE2MWE5MGQ4NjY5NTk1ZjgiLCJpYXQiOjE2NzExNzk3NTYsImV4cCI6MTY3MTE4MzM1Nn0.H1UBxMKQhfYAPe5zcw57548OG7zOlaS9HBl9ojxpBVs
+
+{
+    "id": 999,
+    "name": "Random Mister",
+    "email": "ssss@gmail.com",
+    "age": 22,
+    "ssn": "261200XXXXX",
+    "grades": {
+        "math": 9,
+        "finnish": 8,
+        "others": 0,
+    },
+    "resultOfQuery": "Nature",
+    "wantsToStudy": "Programming",
+    "hobbiesAndInterests": "Sports Science"
+}
