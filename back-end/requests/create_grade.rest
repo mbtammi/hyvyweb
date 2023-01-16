@@ -1,0 +1,11 @@
+//TODO: pitää tehdä myöhemmin....
+POST http://localhost:3001/api/grades
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVsbGFAZ21haWwuY29tIiwiaWQiOiI2M2IzZjZmMTU1ZGEwYjY2NmFmZjc0YmEiLCJpYXQiOjE2NzI3Mzg1NjYsImV4cCI6MTY3Mjc0MjE2Nn0.pXEYP3Iesc6VN8MBQQ-YtmmgJ301pzmgzlkjIaDVkVo
+
+{
+    "name": "Maantieto",
+    "grade": 9,
+    "datas": "63b3f72e55da0b666aff74be"
+    //Id:n tulla saada kirjautuneelta käyttäjältä
+}

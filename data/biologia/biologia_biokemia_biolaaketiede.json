@@ -1,0 +1,1602 @@
+{
+ "biokemia_biologia_biolaaketiede": [
+  {
+   "aine": "Molekyylibiotieteet",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Molekyylibiotieteet"
+    },
+    {
+     "arvosana": "Helsingin yliopisto"
+    },
+    {
+     "arvosana": "52 %"
+    },
+    {
+     "arvosana": "Biologia suoritettuna hyväksytysti."
+    }
+   ]
+  },
+  {
+   "aine": "Biokemia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biokemia"
+    },
+    {
+     "arvosana": "Oulun yliopisto"
+    },
+    {
+     "arvosana": "63 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Bioteknologia ja biolääketieteen tekniikka",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Bioteknologia ja biolääketieteen tekniikka"
+    },
+    {
+     "arvosana": "Tampereen yliopisto"
+    },
+    {
+     "arvosana": "60 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Biokemia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biokemia"
+    },
+    {
+     "arvosana": "Turun yliopisto"
+    },
+    {
+     "arvosana": "51 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  { 
+   "aine": "äidinkieli",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "äidinkieli"
+    },
+    {
+     "arvosana": "33,0"
+    },
+    {
+     "arvosana": "27,5"
+    },
+    {
+     "arvosana": "22,0"
+    },
+    {
+     "arvosana": "16,5"
+    },
+    {
+     "arvosana": "11,0"
+    },
+    {
+     "arvosana": "5,5"
+    }
+   ]
+  },
+  {
+   "aine": "kemia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kemia"
+    },
+    {
+     "arvosana": "34,0"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "22,7"
+    },
+    {
+     "arvosana": "17,0"
+    },
+    {
+     "arvosana": "11,3"
+    },
+    {
+     "arvosana": "5,7"
+    }
+   ]
+  },
+  {
+   "aine": "matematiikka, pitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "matematiikka, pitkä"
+    },
+    {
+     "arvosana": "39,7"
+    },
+    {
+     "arvosana": "33,1"
+    },
+    {
+     "arvosana": "26,4"
+    },
+    {
+     "arvosana": "19,8"
+    },
+    {
+     "arvosana": "13,2"
+    },
+    {
+     "arvosana": "6,6"
+    }
+   ]
+  },
+  {
+   "aine": "matematiikka, lyhyt",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "matematiikka, lyhyt"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "23,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "14,1"
+    },
+    {
+     "arvosana": "9,4"
+    },
+    {
+     "arvosana": "4,7"
+    }
+   ]
+  },
+  {
+   "aine": "fysiikka",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "fysiikka"
+    },
+    {
+     "arvosana": "31,7"
+    },
+    {
+     "arvosana": "26,5"
+    },
+    {
+     "arvosana": "21,2"
+    },
+    {
+     "arvosana": "15,9"
+    },
+    {
+     "arvosana": "10,6"
+    },
+    {
+     "arvosana": "5,3"
+    }
+   ]
+  },
+  {
+   "aine": "biologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "biologia"
+    },
+    {
+     "arvosana": "26,8"
+    },
+    {
+     "arvosana": "22,4"
+    },
+    {
+     "arvosana": "17,9"
+    },
+    {
+     "arvosana": "13,4"
+    },
+    {
+     "arvosana": "8,9"
+    },
+    {
+     "arvosana": "4,5"
+    }
+   ]
+  },
+  {
+   "aine": "filosofia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "filosofia"
+    },
+    {
+     "arvosana": "16,0"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,7"
+    },
+    {
+     "arvosana": "8,0"
+    },
+    {
+     "arvosana": "5,3"
+    },
+    {
+     "arvosana": "2,7"
+    }
+   ]
+  },
+  {
+   "aine": "historia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "historia"
+    },
+    {
+     "arvosana": "19,6"
+    },
+    {
+     "arvosana": "16,3"
+    },
+    {
+     "arvosana": "13,1"
+    },
+    {
+     "arvosana": "9,8"
+    },
+    {
+     "arvosana": "6,5"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "maantiede",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "maantiede"
+    },
+    {
+     "arvosana": "22,0"
+    },
+    {
+     "arvosana": "18,3"
+    },
+    {
+     "arvosana": "14,7"
+    },
+    {
+     "arvosana": "11,0"
+    },
+    {
+     "arvosana": "7,3"
+    },
+    {
+     "arvosana": "3,7"
+    }
+   ]
+  },
+  {
+   "aine": "psykologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "psykologia"
+    },
+    {
+     "arvosana": "24,6"
+    },
+    {
+     "arvosana": "20,5"
+    },
+    {
+     "arvosana": "16,4"
+    },
+    {
+     "arvosana": "12,3"
+    },
+    {
+     "arvosana": "8,2"
+    },
+    {
+     "arvosana": "4,1"
+    }
+   ]
+  },
+  {
+   "aine": "terveystieto",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "terveystieto"
+    },
+    {
+     "arvosana": "13,9"
+    },
+    {
+     "arvosana": "11,5"
+    },
+    {
+     "arvosana": "9,2"
+    },
+    {
+     "arvosana": "6,9"
+    },
+    {
+     "arvosana": "4,6"
+    },
+    {
+     "arvosana": "2,3"
+    }
+   ]
+  },
+  {
+   "aine": "uskonto tai elämänkatsomustieto",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "uskonto tai elämänkatsomustieto"
+    },
+    {
+     "arvosana": "19,6"
+    },
+    {
+     "arvosana": "16,3"
+    },
+    {
+     "arvosana": "13,1"
+    },
+    {
+     "arvosana": "9,8"
+    },
+    {
+     "arvosana": "6,5"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "yhteiskuntaoppi",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "yhteiskuntaoppi"
+    },
+    {
+     "arvosana": "16,0"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,7"
+    },
+    {
+     "arvosana": "8,0"
+    },
+    {
+     "arvosana": "5,3"
+    },
+    {
+     "arvosana": "2,7"
+    }
+   ]
+  },
+  {
+   "aine": "EB-, IB-, RP- ja DIA-tutkintojen muut reaaliaineet",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "EB-, IB-, RP- ja DIA-tutkintojen muut reaaliaineet"
+    },
+    {
+     "arvosana": "16,0"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,7"
+    },
+    {
+     "arvosana": "8,0"
+    },
+    {
+     "arvosana": "5,3"
+    },
+    {
+     "arvosana": "2,7"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, pitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, pitkä"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "23,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "14,1"
+    },
+    {
+     "arvosana": "9,4"
+    },
+    {
+     "arvosana": "4,7"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, keskipitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, keskipitkä"
+    },
+    {
+     "arvosana": "25,1"
+    },
+    {
+     "arvosana": "20,9"
+    },
+    {
+     "arvosana": "16,8"
+    },
+    {
+     "arvosana": "12,6"
+    },
+    {
+     "arvosana": "8,4"
+    },
+    {
+     "arvosana": "4,2"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, lyhyt",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, lyhyt"
+    },
+    {
+     "arvosana": "22,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "15,1"
+    },
+    {
+     "arvosana": "11,3"
+    },
+    {
+     "arvosana": "7,5"
+    },
+    {
+     "arvosana": "3,8"
+    }
+   ]
+  },
+  {
+   "aine": "Biologia (opetus suomeksi)",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biologia (opetus suomeksi)"
+    },
+    {
+     "arvosana": "Helsingin yliopisto"
+    },
+    {
+     "arvosana": "52 %"
+    },
+    {
+     "arvosana": "Biologia suoritettuna vähintään arvosanalla C ja kemia suoritettuna hyväksytysti."
+    }
+   ]
+  },
+  {
+   "aine": "Biologi (opetus ruotsiksi)",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biologi (opetus ruotsiksi)"
+    },
+    {
+     "arvosana": "Helsingin yliopisto"
+    },
+    {
+     "arvosana": "51 %"
+    },
+    {
+     "arvosana": "Biologia suoritettuna vähintään arvosanalla C ja kemia suoritettuna hyväksytysti."
+    }
+   ]
+  },
+  {
+   "aine": "Ympäristötieteet",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Ympäristötieteet"
+    },
+    {
+     "arvosana": "Helsingin yliopisto"
+    },
+    {
+     "arvosana": "52 %"
+    },
+    {
+     "arvosana": "Biologia suoritettuna vähintään arvosanalla C ja kemia suoritettuna hyväksytysti."
+    }
+   ]
+  },
+  {
+   "aine": "Ympäristö- ja biotieteet, Joensuu",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Ympäristö- ja biotieteet, Joensuu"
+    },
+    {
+     "arvosana": "Itä-Suomen yliopisto"
+    },
+    {
+     "arvosana": "71 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Ympäristö- ja biotieteet, Kuopio",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Ympäristö- ja biotieteet, Kuopio"
+    },
+    {
+     "arvosana": "Itä-Suomen yliopisto"
+    },
+    {
+     "arvosana": "67 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Biologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biologia"
+    },
+    {
+     "arvosana": "Jyväskylän yliopisto"
+    },
+    {
+     "arvosana": "51 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Luonnonvarat ja ympäristö",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Luonnonvarat ja ympäristö"
+    },
+    {
+     "arvosana": "Jyväskylän yliopisto"
+    },
+    {
+     "arvosana": "100 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Biologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biologia"
+    },
+    {
+     "arvosana": "Oulun yliopisto"
+    },
+    {
+     "arvosana": "55 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Biologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biologia"
+    },
+    {
+     "arvosana": "Turun yliopisto"
+    },
+    {
+     "arvosana": "51 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "Biovetenskaper (opetus ruotsiksi)",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biovetenskaper (opetus ruotsiksi)"
+    },
+    {
+     "arvosana": "Åbo Akademi"
+    },
+    {
+     "arvosana": "70 %"
+    },
+    {
+     "arvosana": "Ei kynnysehtoja."
+    }
+   ]
+  },
+  {
+   "aine": "äidinkieli",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "äidinkieli"
+    },
+    {
+     "arvosana": "33,0"
+    },
+    {
+     "arvosana": "27,5"
+    },
+    {
+     "arvosana": "22,0"
+    },
+    {
+     "arvosana": "16,5"
+    },
+    {
+     "arvosana": "11,0"
+    },
+    {
+     "arvosana": "5,5"
+    }
+   ]
+  },
+  {
+   "aine": "biologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "biologia"
+    },
+    {
+     "arvosana": "34,0"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "22,7"
+    },
+    {
+     "arvosana": "17,0"
+    },
+    {
+     "arvosana": "11,3"
+    },
+    {
+     "arvosana": "5,7"
+    }
+   ]
+  },
+  {
+   "aine": "matematiikka, pitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "matematiikka, pitkä"
+    },
+    {
+     "arvosana": "39,7"
+    },
+    {
+     "arvosana": "33,1"
+    },
+    {
+     "arvosana": "26,4"
+    },
+    {
+     "arvosana": "19,8"
+    },
+    {
+     "arvosana": "13,2"
+    },
+    {
+     "arvosana": "6,6"
+    }
+   ]
+  },
+  {
+   "aine": "matematiikka, lyhyt",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "matematiikka, lyhyt"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "23,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "14,1"
+    },
+    {
+     "arvosana": "9,4"
+    },
+    {
+     "arvosana": "4,7"
+    }
+   ]
+  },
+  {
+   "aine": "filosofia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "filosofia"
+    },
+    {
+     "arvosana": "16,0"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,7"
+    },
+    {
+     "arvosana": "8,0"
+    },
+    {
+     "arvosana": "5,3"
+    },
+    {
+     "arvosana": "2,7"
+    }
+   ]
+  },
+  {
+   "aine": "fysiikka",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "fysiikka"
+    },
+    {
+     "arvosana": "31,7"
+    },
+    {
+     "arvosana": "26,5"
+    },
+    {
+     "arvosana": "21,2"
+    },
+    {
+     "arvosana": "15,9"
+    },
+    {
+     "arvosana": "10,6"
+    },
+    {
+     "arvosana": "5,3"
+    }
+   ]
+  },
+  {
+   "aine": "historia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "historia"
+    },
+    {
+     "arvosana": "19,6"
+    },
+    {
+     "arvosana": "16,3"
+    },
+    {
+     "arvosana": "13,1"
+    },
+    {
+     "arvosana": "9,8"
+    },
+    {
+     "arvosana": "6,5"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "kemia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kemia"
+    },
+    {
+     "arvosana": "26,8"
+    },
+    {
+     "arvosana": "22,4"
+    },
+    {
+     "arvosana": "17,9"
+    },
+    {
+     "arvosana": "13,4"
+    },
+    {
+     "arvosana": "8,9"
+    },
+    {
+     "arvosana": "4,5"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, pitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, pitkä"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "23,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "14,1"
+    },
+    {
+     "arvosana": "9,4"
+    },
+    {
+     "arvosana": "4,7"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, keskipitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, keskipitkä"
+    },
+    {
+     "arvosana": "25,1"
+    },
+    {
+     "arvosana": "20,9"
+    },
+    {
+     "arvosana": "16,8"
+    },
+    {
+     "arvosana": "12,6"
+    },
+    {
+     "arvosana": "8,4"
+    },
+    {
+     "arvosana": "4,2"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, lyhyt",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, lyhyt"
+    },
+    {
+     "arvosana": "22,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "15,1"
+    },
+    {
+     "arvosana": "11,3"
+    },
+    {
+     "arvosana": "7,5"
+    },
+    {
+     "arvosana": "3,8"
+    }
+   ]
+  },
+  {
+   "aine": "maantiede",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "maantiede"
+    },
+    {
+     "arvosana": "22,0"
+    },
+    {
+     "arvosana": "18,3"
+    },
+    {
+     "arvosana": "14,7"
+    },
+    {
+     "arvosana": "11,0"
+    },
+    {
+     "arvosana": "7,3"
+    },
+    {
+     "arvosana": "3,7"
+    }
+   ]
+  },
+  {
+   "aine": "psykologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "psykologia"
+    },
+    {
+     "arvosana": "24,6"
+    },
+    {
+     "arvosana": "20,5"
+    },
+    {
+     "arvosana": "16,4"
+    },
+    {
+     "arvosana": "12,3"
+    },
+    {
+     "arvosana": "8,2"
+    },
+    {
+     "arvosana": "4,1"
+    }
+   ]
+  },
+  {
+   "aine": "terveystieto",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "terveystieto"
+    },
+    {
+     "arvosana": "13,9"
+    },
+    {
+     "arvosana": "11,5"
+    },
+    {
+     "arvosana": "9,2"
+    },
+    {
+     "arvosana": "6,9"
+    },
+    {
+     "arvosana": "4,6"
+    },
+    {
+     "arvosana": "2,3"
+    }
+   ]
+  },
+  {
+   "aine": "uskonto tai elämänkatsomustieto",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "uskonto tai elämänkatsomustieto"
+    },
+    {
+     "arvosana": "19,6"
+    },
+    {
+     "arvosana": "16,3"
+    },
+    {
+     "arvosana": "13,1"
+    },
+    {
+     "arvosana": "9,8"
+    },
+    {
+     "arvosana": "6,5"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "yhteiskuntaoppi",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "yhteiskuntaoppi"
+    },
+    {
+     "arvosana": "16,0"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,7"
+    },
+    {
+     "arvosana": "8,0"
+    },
+    {
+     "arvosana": "5,3"
+    },
+    {
+     "arvosana": "2,7"
+    }
+   ]
+  },
+  {
+   "aine": "EB-, IB-, RP- ja DIA-tutkintojen muut reaaliaineet",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "EB-, IB-, RP- ja DIA-tutkintojen muut reaaliaineet"
+    },
+    {
+     "arvosana": "16,0"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,7"
+    },
+    {
+     "arvosana": "8,0"
+    },
+    {
+     "arvosana": "5,3"
+    },
+    {
+     "arvosana": "2,7"
+    }
+   ]
+  },
+  {
+   "aine": "Biolääketiede, Kuopio",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biolääketiede, Kuopio"
+    },
+    {
+     "arvosana": "Itä-Suomen yliopisto"
+    },
+    {
+     "arvosana": "Alin paikkamäärä, joka ylittää aloituspaikoista 50 %."
+    },
+    {
+     "arvosana": "Biologia ja kemia suoritettuna vähintään arvosanalla C."
+    }
+   ]
+  },
+  {
+   "aine": "Biolääketiede",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "Biolääketiede"
+    },
+    {
+     "arvosana": "Turun yliopisto"
+    },
+    {
+     "arvosana": "Alin paikkamäärä, joka ylittää aloituspaikoista 50 %."
+    },
+    {
+     "arvosana": "Biologia ja kemia suoritettuna vähintään arvosanalla C."
+    }
+   ]
+  },
+  {
+   "aine": "äidinkieli",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "äidinkieli"
+    },
+    {
+     "arvosana": "33,0"
+    },
+    {
+     "arvosana": "27,5"
+    },
+    {
+     "arvosana": "22,0"
+    },
+    {
+     "arvosana": "16,5"
+    },
+    {
+     "arvosana": "11,0"
+    },
+    {
+     "arvosana": "5,5"
+    }
+   ]
+  },
+  {
+   "aine": "kemia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kemia"
+    },
+    {
+     "arvosana": "34,0"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "22,7"
+    },
+    {
+     "arvosana": "17,0"
+    },
+    {
+     "arvosana": "11,3"
+    },
+    {
+     "arvosana": "5,7"
+    }
+   ]
+  },
+  {
+   "aine": "biologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "biologia"
+    },
+    {
+     "arvosana": "32,3"
+    },
+    {
+     "arvosana": "26,9"
+    },
+    {
+     "arvosana": "21,5"
+    },
+    {
+     "arvosana": "16,2"
+    },
+    {
+     "arvosana": "10,8"
+    },
+    {
+     "arvosana": "5,4"
+    }
+   ]
+  },
+  {
+   "aine": "matematiikka, pitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "matematiikka, pitkä"
+    },
+    {
+     "arvosana": "36,1"
+    },
+    {
+     "arvosana": "30,0"
+    },
+    {
+     "arvosana": "24,0"
+    },
+    {
+     "arvosana": "18,0"
+    },
+    {
+     "arvosana": "12,0"
+    },
+    {
+     "arvosana": "6,0"
+    }
+   ]
+  },
+  {
+   "aine": "matematiikka, lyhyt",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "matematiikka, lyhyt"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "23,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "14,1"
+    },
+    {
+     "arvosana": "9,4"
+    },
+    {
+     "arvosana": "4,7"
+    }
+   ]
+  },
+  {
+   "aine": "filosofia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "filosofia"
+    },
+    {
+     "arvosana": "20,0"
+    },
+    {
+     "arvosana": "16,7"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,0"
+    },
+    {
+     "arvosana": "6,7"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "fysiikka",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "fysiikka"
+    },
+    {
+     "arvosana": "26,5"
+    },
+    {
+     "arvosana": "22,0"
+    },
+    {
+     "arvosana": "17,6"
+    },
+    {
+     "arvosana": "13,2"
+    },
+    {
+     "arvosana": "8,8"
+    },
+    {
+     "arvosana": "4,4"
+    }
+   ]
+  },
+  {
+   "aine": "historia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "historia"
+    },
+    {
+     "arvosana": "24,5"
+    },
+    {
+     "arvosana": "20,4"
+    },
+    {
+     "arvosana": "16,3"
+    },
+    {
+     "arvosana": "12,2"
+    },
+    {
+     "arvosana": "8,2"
+    },
+    {
+     "arvosana": "4,1"
+    }
+   ]
+  },
+  {
+   "aine": "maantiede",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "maantiede"
+    },
+    {
+     "arvosana": "20,0"
+    },
+    {
+     "arvosana": "16,7"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,0"
+    },
+    {
+     "arvosana": "6,7"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "psykologia",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "psykologia"
+    },
+    {
+     "arvosana": "22,4"
+    },
+    {
+     "arvosana": "18,6"
+    },
+    {
+     "arvosana": "14,9"
+    },
+    {
+     "arvosana": "11,2"
+    },
+    {
+     "arvosana": "7,5"
+    },
+    {
+     "arvosana": "3,7"
+    }
+   ]
+  },
+  {
+   "aine": "terveystieto",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "terveystieto"
+    },
+    {
+     "arvosana": "17,3"
+    },
+    {
+     "arvosana": "14,4"
+    },
+    {
+     "arvosana": "11,5"
+    },
+    {
+     "arvosana": "8,7"
+    },
+    {
+     "arvosana": "5,8"
+    },
+    {
+     "arvosana": "2,9"
+    }
+   ]
+  },
+  {
+   "aine": "uskonto tai elämänkatsomustieto",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "uskonto tai elämänkatsomustieto"
+    },
+    {
+     "arvosana": "24,5"
+    },
+    {
+     "arvosana": "20,4"
+    },
+    {
+     "arvosana": "16,3"
+    },
+    {
+     "arvosana": "12,2"
+    },
+    {
+     "arvosana": "8,2"
+    },
+    {
+     "arvosana": "4,1"
+    }
+   ]
+  },
+  {
+   "aine": "yhteiskuntaoppi",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "yhteiskuntaoppi"
+    },
+    {
+     "arvosana": "20,0"
+    },
+    {
+     "arvosana": "16,7"
+    },
+    {
+     "arvosana": "13,3"
+    },
+    {
+     "arvosana": "10,0"
+    },
+    {
+     "arvosana": "6,7"
+    },
+    {
+     "arvosana": "3,3"
+    }
+   ]
+  },
+  {
+   "aine": "EB-, IB-, RP- ja DIA-tutkintojen muut reaaliaineet",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "EB-, IB-, RP- ja DIA-tutkintojen muut reaaliaineet"
+    },
+    {
+     "arvosana": "22,4"
+    },
+    {
+     "arvosana": "18,6"
+    },
+    {
+     "arvosana": "14,9"
+    },
+    {
+     "arvosana": "11,2"
+    },
+    {
+     "arvosana": "7,5"
+    },
+    {
+     "arvosana": "3,7"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, pitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, pitkä"
+    },
+    {
+     "arvosana": "28,3"
+    },
+    {
+     "arvosana": "23,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "14,1"
+    },
+    {
+     "arvosana": "9,4"
+    },
+    {
+     "arvosana": "4,7"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, keskipitkä",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, keskipitkä"
+    },
+    {
+     "arvosana": "25,1"
+    },
+    {
+     "arvosana": "20,9"
+    },
+    {
+     "arvosana": "16,8"
+    },
+    {
+     "arvosana": "12,6"
+    },
+    {
+     "arvosana": "8,4"
+    },
+    {
+     "arvosana": "4,2"
+    }
+   ]
+  },
+  {
+   "aine": "kieli, lyhyt",
+   "kaikki_arvosanat": [
+    {
+     "arvosana": "kieli, lyhyt"
+    },
+    {
+     "arvosana": "22,6"
+    },
+    {
+     "arvosana": "18,9"
+    },
+    {
+     "arvosana": "15,1"
+    },
+    {
+     "arvosana": "11,3"
+    },
+    {
+     "arvosana": "7,5"
+    },
+    {
+     "arvosana": "3,8"
+    }
+   ]
+  }
+ ]
+}
