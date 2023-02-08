@@ -4,6 +4,7 @@ import './App.css';
 import { Survey } from 'survey-react-ui';
 import { useCallback, useState } from 'react';
 import surveyJson from './studySurvey';
+import biologia_biokemia_biolaaketiede from './data/biologia/biologia_biokemia_biolaaketiede.json'
 // const SURVEY_ID = 1;
 
 
@@ -18,7 +19,37 @@ function App() {
     // )
   }, []);
 
+  const fetchInfo = () => {
+
+    const searchTerm = "aine";
+    let found = false;
+
+    const raw = require('./data/biologia/biologia_biokemia_biolaaketiede.json')
+    const data = raw.biokemia_biologia_biolaaketiede;
+    console.log("data: ", data.aine)
+    const aine = data.filter(obj => obj.aine === "kemia");
+    console.log("aine: ", aine)
+    
+    // for (const key in data.aine) {
+    //   if (data.hasOwnProperty(key)) {
+    //     const value = data[key];
+    //     console.log("value: ", value)
+    //     if (value.hasOwnProperty(searchTerm)) {
+    //       console.log(`Found "${searchTerm}" in field "${key}" with value "${value[searchTerm]}"`);
+    //       found = true;
+    //       break;
+    //     }
+    //   }
+    // }
+    
+    // if (!found) {
+    //   console.log(`Field "${searchTerm}" not found in JSON data`);
+    // }
+  }
+
   const alertResults = useCallback((sender) => {
+    fetchInfo();
+
     console.log("Senderi: ", sender.data)
     console.log("survey: ", surveyJson)
     const results = JSON.stringify(surveyJson.pages[0].elements);
